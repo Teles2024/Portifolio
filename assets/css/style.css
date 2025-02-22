@@ -39,6 +39,7 @@
   body {
       padding-top: 70px;
   }
+  
 
   .btn-primary {
     background-color: #e7a936;
@@ -47,9 +48,4 @@
     transform: translateY(6px);
   }
   
-  .card { display: flex; flex-direction: column; height: 100%;
- }
 
- .col-md-4 { display: flex; justify-content: space-between; align-items: stretch; }
-
- .card-body { flex-grow: 1; }
