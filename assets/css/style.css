@@ -46,3 +46,7 @@
     box-shadow: 0 3px #020001;
     transform: translateY(6px);
   }
+  
+  .col-md-4 { 
+    display: flex; justify-content: space-between; align-items: stretch; 
+}
