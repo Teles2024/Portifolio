@@ -47,6 +47,5 @@
     transform: translateY(6px);
   }
   
-  .col-md-4 { 
-    display: flex; justify-content: space-between; align-items: stretch; 
-}
+  .card { display: flex; flex-direction: column; height: 100%;
+ }
